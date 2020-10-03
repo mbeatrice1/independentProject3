@@ -1,13 +1,23 @@
 .image-fluid{
-  background-image: url("https://github.com/mbeatrice1/independentProject3/blob/master/pictures/backgrounds/h_img.jpg?raw=true");
+  background-image: url("https://github.com/mbeatrice1/independentProject3/blob/develop/pictures/backgrounds/h_img.jpg?raw=true");
     max-width: 100% ;
     background-size: cover;
     height: 50%;
-    color: white;
+    color: rgb(233, 227, 227);
     padding: 15%;
     opacity: 0.9;
     margin-top: 5px;
+    text-align: center;
+}
+
+
+    .content{
+
+text-align: center;
+font-size: 15px;
+font-style: italic;
+margin-top: 6px;
+    }
     
 
     
-}
