@@ -1,5 +1,5 @@
-.img-fluid{
-    background-image: url("/pictures/backgrounds/h_img.jpg");
+.image-fluid{
+  background-image: url("/pictures/backgrounds/h_img.jpg");
     max-width: 100% ;
     background-size: cover;
     height: 50%;
