@@ -1,0 +1,13 @@
+.img-fluid{
+    background-image: url("/pictures/backgrounds/h_img.jpg");
+    max-width: 100% ;
+    background-size: cover;
+    height: 50%;
+    color: white;
+    padding: 15%;
+    opacity: 0.9;
+    margin-top: 4px;
+    
+
+    
+}
