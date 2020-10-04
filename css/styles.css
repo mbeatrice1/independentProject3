@@ -46,13 +46,13 @@ padding: 30px;
          font-size: 12px;
          background-size: cover;
          color: black;
-         margin: 50px;
+         margin-top: 20px;
          height: 400px;
+         
+        }
+        .d-inline {
 
-         
-        
-        
-         
+            padding: 30px;
         }
     
 
