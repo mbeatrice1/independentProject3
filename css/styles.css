@@ -26,23 +26,30 @@ margin-top: 10px;
  padding: 80px;
  font-size: 12px;
  height: 30%;
+ background-size: cover;
  
  
     }
    .wd{
-margin-top: 3px;
-padding: 50px;
 
+padding: 50px;
+background-color: rgb(161, 93, 107);
 margin: 100px;
 
     }
+
+
     
     main{
-       padding: 3px;
+       padding: 1px;
        margin: 80px;
        margin-top: 5px;
-       
-       
+        
+    }
+    
+    main img :hover{
+
+        background-color: rgba(161, 102, 102, 0.76);
     }
      .lst{
          background-image: url("https://github.com/mbeatrice1/independentProject3/blob/develop/pictures/backgrounds/c_image.jpg?raw=true");
