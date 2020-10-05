@@ -28,15 +28,18 @@ margin-top: 10px;
  height: 30%;
  
     }
-  /*-  .task{
--margin-top: 20px;
-padding: 30px;*/
+   .wd{
+margin-top: 3px;
+padding: 50px;
+background-color: brown;
+margin: 100px;
 
     }
     
     main{
        padding: 3px;
        margin: 80px;
+       margin-top: 5px;
        
        
     }
