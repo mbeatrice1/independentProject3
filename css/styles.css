@@ -57,6 +57,13 @@ margin: 100px;
 
             padding: 30px;
         }
+        .flex-fill p{
+            display: none;  
+
+        }
+        .flex-fill img{
+            cursor: pointer;
+        }
     
 
 
